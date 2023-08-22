@@ -1,6 +1,6 @@
 streamlit
 stlib
-PIL
+Pillow
 pandas
 numpy
 altair
